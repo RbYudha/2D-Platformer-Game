@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{24157A80-EAA6-CA10-B78A-A8BA02AAE407}</ProjectGuid>
+    <ProjectGuid>{798003BC-4542-21BC-B96C-5DA5389C1BF2}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -58,85 +58,85 @@
      <Compile Include="Assets\CameraControl.cs" />
      <Compile Include="Assets\playerController.cs" />
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/2D-Platformer-Game/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Animation.Runtime">
- <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
+ <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/2D-Platformer-Game/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.PixelPerfect.Editor">
- <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll</HintPath>
+ <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/2D-Platformer-Game/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/2D-Platformer-Game/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.SpriteShape.Editor">
- <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll</HintPath>
+ <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/2D-Platformer-Game/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/2D-Platformer-Game/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Path.Editor">
- <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll</HintPath>
+ <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/2D-Platformer-Game/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/2D-Platformer-Game/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/2D-Platformer-Game/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Animation.Triangle.Runtime">
- <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll</HintPath>
+ <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/2D-Platformer-Game/Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="PsdPlugin">
- <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/Library/ScriptAssemblies/PsdPlugin.dll</HintPath>
+ <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/2D-Platformer-Game/Library/ScriptAssemblies/PsdPlugin.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/2D-Platformer-Game/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/2D-Platformer-Game/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Mathematics">
- <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+ <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/2D-Platformer-Game/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Psdimporter.Editor">
- <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll</HintPath>
+ <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/2D-Platformer-Game/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.InternalAPIEngineBridge.001">
- <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
+ <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/2D-Platformer-Game/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Sprite.Editor">
- <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+ <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/2D-Platformer-Game/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Common.Runtime">
- <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
+ <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/2D-Platformer-Game/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Tilemap.Editor">
- <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+ <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/2D-Platformer-Game/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.SpriteShape.Runtime">
- <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
+ <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/2D-Platformer-Game/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.PixelPerfect">
- <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll</HintPath>
+ <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/2D-Platformer-Game/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Animation.Editor">
- <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
+ <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/2D-Platformer-Game/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Mathematics.Editor">
- <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+ <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/2D-Platformer-Game/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/2D-Platformer-Game/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Common.Editor">
- <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
+ <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/2D-Platformer-Game/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.InternalAPIEditorBridge.001">
- <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
+ <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/2D-Platformer-Game/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/2D-Platformer-Game/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
