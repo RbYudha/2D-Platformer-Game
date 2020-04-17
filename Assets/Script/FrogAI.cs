@@ -7,8 +7,8 @@ public class FrogAI : MonoBehaviour
     [SerializeField] private float leftCap;
     [SerializeField] private float rightCap;
 
-    [SerializeField] private float jumpLength = 5f;
-    [SerializeField] private float jumpHeight =5f;
+    [SerializeField] private float jumpLength;
+    [SerializeField] private float jumpHeight;
     [SerializeField] private LayerMask ground;
 
     private Collider2D collFrog;
