@@ -63,8 +63,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\FrogAI.cs" />
     <Compile Include="Assets\Script\CameraControl.cs" />
+    <Compile Include="Assets\Script\Enemy.cs" />
+    <Compile Include="Assets\Script\FrogAI.cs" />
     <Compile Include="Assets\Script\playerController.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>F:/Unity Project/2D platformer Game (MiniProject)/2D-Platformer-Game/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
