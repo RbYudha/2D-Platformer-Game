@@ -639,8 +639,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4281313023
-  m_fontColor: {r: 1, g: 0.6512097, b: 0.18396229, a: 1}
+    rgba: 4281450751
+  m_fontColor: {r: 1, g: 0.75489265, b: 0.19339621, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -760,7 +760,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1832501448}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -893,8 +893,8 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children:
-  - {fileID: 563186374}
   - {fileID: 1385826600}
+  - {fileID: 563186374}
   - {fileID: 1244600934}
   - {fileID: 2143248562}
   - {fileID: 21452856}
@@ -971,8 +971,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4289518335
-  m_fontColor: {r: 1, g: 0.85648715, b: 0.6745283, a: 1}
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -1107,7 +1107,7 @@ PrefabInstance:
     - target: {fileID: 8178034404902316677, guid: 30063da51208c4e4ab3e0f7275601ad5,
         type: 3}
       propertyPath: m_RootOrder
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8178034404902316677, guid: 30063da51208c4e4ab3e0f7275601ad5,
         type: 3}
